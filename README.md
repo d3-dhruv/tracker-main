@@ -68,3 +68,50 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+•	Create IAM Role for EC2 and AWS CodeDeploy
+
+![alt text](image-14.png)
+
+![alt text](image-13.png)
+
+•	Launch an EC2 Instance and Attach the EC2 Role
+
+![alt text](image-12.png)
+
+•	Create a CodePipeline using GitHub, CodeBuild, and CodeDeploy
+
+![alt text](image-11.png)
+ 
+![alt text](image-10.png)
+ 
+![alt text](image-9.png)
+
+ ![alt text](image-8.png)
+
+ 
+![alt text](image-7.png)
+ 
+
+ ![alt text](image-6.png)
+
+ 
+![alt text](image-5.png)
+ 
+
+Without Build
+
+ 
+![alt text](image-4.png)
+ 
+![alt text](image-3.png)
+
+ ![alt text](image-2.png)
+
+without build
+
+![alt text](image-1.png)
+ 
+![alt text](image.png)
